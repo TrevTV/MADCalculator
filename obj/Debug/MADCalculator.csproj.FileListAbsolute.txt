@@ -1,0 +1,9 @@
+D:\Projects\MADCalculator\MADCalculator\bin\Debug\MADCalculator.exe.config
+D:\Projects\MADCalculator\MADCalculator\bin\Debug\MADCalculator.exe
+D:\Projects\MADCalculator\MADCalculator\bin\Debug\MADCalculator.pdb
+D:\Projects\MADCalculator\MADCalculator\obj\Debug\MADCalculator.csprojAssemblyReference.cache
+D:\Projects\MADCalculator\MADCalculator\obj\Debug\MADCalculator.MainForm.resources
+D:\Projects\MADCalculator\MADCalculator\obj\Debug\MADCalculator.Properties.Resources.resources
+D:\Projects\MADCalculator\MADCalculator\obj\Debug\MADCalculator.csproj.GenerateResource.cache
+D:\Projects\MADCalculator\MADCalculator\obj\Debug\MADCalculator.exe
+D:\Projects\MADCalculator\MADCalculator\obj\Debug\MADCalculator.pdb
